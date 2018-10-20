@@ -1,0 +1,77 @@
+EXTM3U
+#EXTINF:-1,
+#EXTINF:-1 tvg-id="508" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="LATINO",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,GH
+#EXTINF:-1 tvg-id="509" tvg-logo="http://www.firstonetv.net/images/logos/si/HBO2.png" group-title="LATINO",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,FOX FAMILY
+http://158.69.199.207/LIVE/H02/FOXFAMILYHD/playlist.m3u8
+#EXTINF:-1,FOX ACTION
+http://158.69.199.207/LIVE/H02/FOXACTION-B/playlist.m3u8
+#EXTINF:-1,GOLDEN
+http://158.69.199.149/LIVE/H02/GOLDEN-B/playlist.m3u8
+#EXTINF:-1,MAX PRIME
+http://158.69.199.149/LIVE/H02/MAXPRIME/playlist.m3u8
+#EXTINF:-1,HBO
+http://54.39.146.230/LIVE/H02/HBO/playlist.m3u8
+
+#EXTINF:-1,TELEMUN
+http://cdn.whostreams.net:8080/hls/6otcp42qvvs.m3u8?s=i3Ivlf0LwQJ4XsiE8wV3ag&e=1539923260
+
+
+
+#EXTINF:-1,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,WO
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TELE12MAO
+https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/chunklist_w604165634.m3u8
+#EXTINF:-1,TELENOVISA 43
+http://ss6.domint.net:2084/203_str/telenovisa/chunklist_w1742461901.m3u8
+#EXTINF:-1,MIATV
+http://ss8.domint.net:2126/mia_str/miatv/chunklist_w931161961.m3u8
+#EXTINF:-1,TEVE RECUEDO56
+http://media.az-streamingserver.com:1935/7230/7230/chunklist_w1454579731.m3u8
+#EXTINF:-1,OLBI SNT
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:-1,luna
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+#EXTINF:-1,super tv55
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w1389944491.m3u8
+#EXTINF:-1,microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+#EXTINF:-1,tele radio america
+http://ss1.domint.net:2310/tra_str/canal45/chunklist_w908202833.m3u8
+#EXTINF:-1,acs network
+https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/chunklist_w1307814105.m3u8
+#EXTINF:-1,tele red
+http://k4.usastreams.com/Telesistemas/Telesistemas/media_w352570325.m3u8
+#EXTINF:-1,CHILEVISION TV
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:-1,DIVINITY
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1,CINE24
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8
+#EXTINF:-1,3000
+http://ss1.domint.net/v3_str/v3000/chunklist_w12455205.m3u8
+#EXTINF:-1,CANAL 27
+http://ss1.domint.net/rnn_str/canal27/chunklist_w2138809930.m3u8
+#EXTINF:-1,CARACOL
+http://54.39.102.17/LIVE/H02/CARACOL/playlist.m3u8
+#EXTINF:-1,HBOFAM
+http://54.39.102.17/LIVE/H02/HBOFAMILY/playlist.m3u8
+#EXTINF:-1,cine**1
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
+#EXTINF:-1,cine**2
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1,cine**3
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1,CINE KL
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1,CINE PLU
